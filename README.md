@@ -1,3 +1,3 @@
 # best-repo-ever
 
-Conflict 1
+Conflict 2
