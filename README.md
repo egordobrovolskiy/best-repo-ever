@@ -1,3 +1,3 @@
 # best-repo-ever
 
-Hello 2 !
+Conflict 1
